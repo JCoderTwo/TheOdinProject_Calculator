@@ -17,3 +17,11 @@ function divide (num1, num2) {
     return num1 / num2
 }
 console.log(divide(5,5))
+
+let input1 
+let operator
+let input2
+
+function operate (op, num1, num2){
+
+}
